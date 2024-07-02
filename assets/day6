@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        
+    </head>
+    <body>
+        <div id="s1">hello</div>
+        <div id="s2">there</div>
+        <span id="s3">me</span>
+        <span id="s4">map</span>
+    </body>
+</html>

@@ -1,0 +1,23 @@
+
+
+    p{
+        width: 50%;
+        text-align:center;
+        text-decoration:underline rgb(90, 77, 68) 5px;
+        text-transform: capitalize;
+    }
+    #text{
+        text-align: left;
+        text-decoration: none;
+        text-indent: 20px;
+        letter-spacing: normal;
+        line-height: 10px;
+        word-spacing: 20px;
+        white-space:nowrap;
+        text-shadow: 4px-4px rgb(145, 93, 194);
+
+    }
+    #be{
+        font-size: 70px;
+        text-shadow: 4px 4px  rgb(104, 70, 138);
+    }
